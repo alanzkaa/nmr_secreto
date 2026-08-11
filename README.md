@@ -1,4 +1,9 @@
 <h1>Jogo do número secreto</h1>
+
+<h2>Preview</h2>
+
+<img width="1877" height="890" alt="image" src="https://github.com/user-attachments/assets/da4e1909-6ff1-4e47-b155-f0553973ccfb" />
+
 <h2> Sobre</h2>
 <p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
 Tecnologias:
